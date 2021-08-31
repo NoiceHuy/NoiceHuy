@@ -8,7 +8,8 @@
 >> Step 2 : Run this path 
 
 * How To Zoom Image In Notepad
->> Ctrl + "+"
+>> Ctrl + "+" to zoom in
+>> Ctrl + "-" to zoom out
 
 * How To Open
 >> Click To ".github" -> Click To "workflows" -> Click To "python-app.yml"  -> Run File "runthis.py"
