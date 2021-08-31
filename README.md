@@ -9,3 +9,6 @@
 
 * How To Zoom Image In Notepad
 >> Ctrl + "+"
+
+* How To Open
+>> Click To ".github" -> Click To "workflows" -> Click To "python-app.yml"  -> Run File "runthis.py"
