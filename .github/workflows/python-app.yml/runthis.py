@@ -6,7 +6,8 @@ print("Enter Your Path : ...")
 a = input("> ")
 width = input("Type Your Height Size : ")
 height = input("Type Your Height Size : ")
-
+print("Close The lastest")
+print("If have the img in lastest you need close it")
 print("Open Your Path...")
 
 os.system("ascii_image.txt")
